@@ -1,2 +1,1 @@
-# MY CODE
-This repository has projects and code...
+
