@@ -3,8 +3,7 @@ This is the repository made for python projects using tkinter tool
 
 - 👋 Hi, I’m @tejas725
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Tkinter and PyQT5
 - 📫 How to reach me: tejas.bafna180@gmail.com
 
 <!---
